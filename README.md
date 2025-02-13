@@ -1,18 +1,12 @@
-## Getting Started
+# Static
+En esta aplicación hacemos uso de la palabra reservada static, que es usada para poder crear variables y métodos y acceder a ellos como método exclusivo de esa clase en cualquier lugar de la aplicación.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Herramientas
+1. Creación de clases
+2. Creación de atributos
+3. Creacion de métodos
+4. Creación de constructor de clase
+5. Instancia de una clase
+6. Uso de variables y métodos static
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Suscribete a mi canal de Youtube: https://www.youtube.com/@Nescript-369todo heredado y así rehacerlo a las necesidades de la clase Circulo.
