@@ -9,4 +9,4 @@ En esta aplicación hacemos uso de la palabra reservada static, que es usada par
 5. Instancia de una clase
 6. Uso de variables y métodos static
 
-Suscribete a mi canal de Youtube: https://www.youtube.com/@Nescript-369todo heredado y así rehacerlo a las necesidades de la clase Circulo.
+Suscribete a mi canal de Youtube: https://www.youtube.com/@Nescript-369
